@@ -11,15 +11,17 @@ This Stock Analysis Project is a comprehensive initiative focused on leveraging 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## What is done:
+```
 1.Web Scrapping using python 
 
 2.Python modules- Beautifull soup , requests , pandas
 
 3.Data charts creation using microsoft excel
+```
 
 ---------------------------------------------------------------------------------
-```
 ## Steps to run:
+```
 1.Open google colab or jupyter notebook or any python environment
 
 2.Run the .ipynb file with the website link of the stock website
