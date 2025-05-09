@@ -1,3 +1,5 @@
+<img src="aly.jpg" alt="GitHub Banner" width="100%" />
+
 # 💫 About Repo:
 The Analytics repository is a hub for exploring the dynamic field of data analytics, where raw data is transformed into actionable insights through collection, processing, and analysis. Encompassing descriptive, diagnostic, predictive, and prescriptive analytics, this domain leverages tools like Python, Excel and platforms such as power BI to uncover patterns, forecast trends, and drive decision-making across industries like finance, healthcare, and marketing. This repository showcases practical projects, including data pipelines, exploratory analysis, visualizations, and predictive models, serving as a resource for both beginners and seasoned data professionals to deepen their expertise and contribute to the analytics community.
 
