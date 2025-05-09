@@ -30,6 +30,10 @@ This Stock Analysis Project is a comprehensive initiative focused on leveraging 
 
 4.Use this .csv file for data analysis on microsoft excel
 ```
+## Major instructions:
+```
+If using any other python environment other than juyter notebook or colab , setup the environment properly , take help from youtube or any AI's
+```
 -------------------------------------------------------------------------------------
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=madhurv01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
