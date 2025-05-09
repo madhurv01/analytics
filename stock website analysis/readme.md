@@ -21,10 +21,14 @@ This Stock Analysis Project is a comprehensive initiative focused on leveraging 
 ```
 ## Steps to run:
 1.Open google colab or jupyter notebook or any python environment
+
 2.Run the .ipynb file with the website link of the stock website
+
 3.At last a .csv will be created in the current working directory
+
 4.Use this .csv file for data analysis on microsoft excel
 ```
+-------------------------------------------------------------------------------------
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=madhurv01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=madhurv01&theme=dark&hide_border=false)<br/>
