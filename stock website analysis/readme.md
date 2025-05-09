@@ -32,7 +32,9 @@ This Stock Analysis Project is a comprehensive initiative focused on leveraging 
 ```
 ## Major instructions:
 ```
-If using any other python environment other than juyter notebook or colab , setup the environment properly , take help from youtube or any AI's
+1.If using any other python environment other than juyter notebook or colab , setup the environment properly , take help from youtube or any AI's
+
+2.I have provided the excel sheet also in which data is present for view only .
 ```
 -------------------------------------------------------------------------------------
 # 📊 GitHub Stats:
