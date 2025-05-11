@@ -1,4 +1,4 @@
-<img src="stock.png" alt="GitHub Banner" width="100%" />
+<img src="Data analytics.png" alt="GitHub Banner" width="100%" />
 
 # Stock data analysis:
 This Stock Analysis Project is a comprehensive initiative focused on leveraging data analytics to evaluate stock market trends through web scraping and visualization. This project utilizes Python to scrape real-time financial data from publicly available sources, enabling the collection of stock prices, company metrics, and market indicators. The scraped data is then processed and analyzed to uncover insights, which are presented in an interactive dashboard created using Microsoft Excel. This dashboard features dynamic charts, tables, and key performance indicators, providing an intuitive interface for investors and analysts to monitor stock performance and make informed decisions. Ideal for those interested in financial analytics, this repository demonstrates the power of combining Python’s web scraping capabilities with Excel’s robust visualization tools to deliver actionable stock market insights.
@@ -37,6 +37,10 @@ This Stock Analysis Project is a comprehensive initiative focused on leveraging 
 2.I have provided the excel sheet also in which data is present for view only .
 ```
 -------------------------------------------------------------------------------------
+# Screenshots :
+
+<img src="stock.png" alt="GitHub Banner" width="100%" />
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=madhurv01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=madhurv01&theme=dark&hide_border=false)<br/>
