@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PDF Outline Extractor - Hackathon Solution
 
 This project provides a solution for extracting a structured outline (Title, H1, H2, H3) from PDF documents.
@@ -51,3 +52,6 @@ docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output pdf-extr
 *(For Windows PowerShell users, replace `$(pwd)` with `${pwd}`)*
 
 The container will automatically find all `.pdf` files in `/app/input`, process them, and write the corresponding `.json` files to `/app/output`.
+=======
+# pdf_outline_extractor
+>>>>>>> 1505aa5a9dffaa186c2666d21d107185035561af
