@@ -1,0 +1,30 @@
+{
+  "title": "Resume",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Hello I’m Your Name",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Skills",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Experience",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Education",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Awards",
+      "page": 1
+    }
+  ]
+}
